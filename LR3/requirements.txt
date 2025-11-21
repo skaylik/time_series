@@ -1,0 +1,15 @@
+# Список зависимостей проекта для лабораторного практикума № 3 по временным рядам
+# Основные библиотеки для анализа временных рядов, машинного обучения и визуализации
+
+streamlit
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+plotly
+pmdarima
+prophet
+arch
+tbats
+
